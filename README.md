@@ -1,6 +1,6 @@
 # PR Reviewer
 
-A portfolio-quality web app that uses the **Claude API** to perform AI-powered pull request reviews. Supports two input modes — paste a diff or browse GitHub repos directly — with model switching and configurable review scope.
+An agentic web app that uses the **Claude API** to perform AI-powered pull request reviews. Supports two input modes — paste a diff or browse GitHub repos directly — with model switching and configurable review scope.
 
 ![PR Reviewer screenshot](public/screenshot.png)
 
